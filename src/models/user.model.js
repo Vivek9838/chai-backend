@@ -99,3 +99,6 @@ export const User = mongoose.Model("User",userSchema)
 //jsonwebtoken create krta hai ek token jo unqui hota hai.
 //ye dono library har project me lagti hi lagti hai.
 //jwt ek bearer token hai jo chabhi jaisa kaam krta hai,means mai chabhi dunga aap data doge.
+//cloudaniry file upload le liye kiya jata hai.
+//multer bhi use kiya jata hai file upload ke liye.
+//middleware --> jate waqt mere se milkar jana 
